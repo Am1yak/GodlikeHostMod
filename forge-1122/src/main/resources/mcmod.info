@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "godlikemod",
+    "name": "Godlike Mod",
+    "description": "Adds a Godlike.host website button to the multiplayer screen.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

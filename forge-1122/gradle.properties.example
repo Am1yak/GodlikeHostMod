@@ -1,0 +1,5 @@
+org.gradle.java.home=/home/ren_gatou/.jdks/dragonwell-1.8.0_482
+
+systemProp.http.keepAlive=false
+systemProp.java.net.preferIPv4Stack=true
+systemProp.org.gradle.internal.repository.max.retries=10
