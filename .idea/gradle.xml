@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/fabric-1201" />
+            <option value="$PROJECT_DIR$/forge-1201" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="true" />

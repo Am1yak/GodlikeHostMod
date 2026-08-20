@@ -9,3 +9,4 @@ pluginManagement {
 rootProject.name = "GodlikeMod"
 
 include("fabric-1201")
+include("forge-1201")
